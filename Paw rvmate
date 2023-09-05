@@ -442,8 +442,8 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch389)/index.m3u
 #EXTINF:-1 tvg-logo="https://github.com/endrisusilo/endro/blob/main/garuda%20tv.png?raw=true" group-title=🇮🇩" TV INDONESIA", GARUDATV
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch45)/index.m3u8
  
-#EXTINF:-1 tvg-logo="https://github.com/endrisusilo/endro/blob/main/Jak%20Tv.jpg?raw=true" group-title="INDONESIA", JAKTV
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch392)/index.m3u8group-title=🇮🇩" TV INDONESIA"
+#EXTINF:-1 tvg-logo="https://github.com/endrisusilo/endro/blob/main/Jak%20Tv.jpg?raw=true" group-title=🇮🇩" TV INDONESIA", JAKTV
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch392)/index.m3u8
  
 
  
