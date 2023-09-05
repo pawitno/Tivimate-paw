@@ -334,7 +334,7 @@ http://edge.linknetott.swiftserve.com/channelgroup3/cg331production/ch8/index.m3
 #EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/8.jpg" group-title="🇮🇩 TV INDONESIA", ANTV
 http://210.210.155.37/qwr9ew/s/s07/index.m3u8
  
-#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/8.jpg" group-title='🇮🇩 TV INDONESIA", ANTV HD
+#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/8.jpg" group-title="🇮🇩 TV INDONESIA", ANTV HD
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch390)/index.m3u8
  
 #EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/13.jpg" group-title="🇮🇩 TV INDONESIA", NET
@@ -393,7 +393,7 @@ http://humiptv.live:8080/live/tarun589853/5787489bcsh/151255.ts
 #EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/tvone.png" group-title="🇮🇩 TV INDONESIA", TV One (D)
 https://ythls.onrender.com/video/yNKvkPJl-tg.m3u8
  
-#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/tvone.png" group-title="🇮🇩" TV INDONESIA", TV One
+#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/tvone.png" group-title="🇮🇩 TV INDONESIA", TV One
 http://103.166.27.2:800/play/a01h
  
 #EXTINF:-1 group-title="🇮🇩 TV INDONESIA" tvg-id="tvone.id" tvg-logo="https://i.imgur.com/iZXjOH4.png",tvOne
@@ -410,7 +410,7 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch410)/index.m3u
 #EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/14.jpg" group-title="🇮🇩 TV INDONESIA", KOMPAS TV
 http://210.210.155.37/qwr9ew/s/s104/index.m3u8
  
-#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/80.jpg" group-title=🇮🇩" TV INDONESIA", BERITA SATU
+#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/80.jpg" group-title="🇮🇩" TV INDONESIA", BERITA SATU
 https://b1news.beritasatumedia.com/Beritasatu/B1News_manifest.m3u8
  
 #EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/80.jpg" group-title="🇮🇩 TV INDONESIA", BERITA SATU
