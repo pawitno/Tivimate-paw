@@ -410,7 +410,7 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch410)/index.m3u
 #EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/14.jpg" group-title="🇮🇩 TV INDONESIA", KOMPAS TV
 http://210.210.155.37/qwr9ew/s/s104/index.m3u8
  
-#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/80.jpg" group-title="🇮🇩" TV INDONESIA", BERITA SATU
+#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/80.jpg" group-title="🇮🇩 TV INDONESIA", BERITA SATU
 https://b1news.beritasatumedia.com/Beritasatu/B1News_manifest.m3u8
  
 #EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/80.jpg" group-title="🇮🇩 TV INDONESIA", BERITA SATU
