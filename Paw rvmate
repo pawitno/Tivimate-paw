@@ -878,11 +878,12 @@ https://melon-live-cdn.mncnow.id/live/eds/soccerchannel-test/sa_dash_vmx/soccerc
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 https://melon-live-cdn.mncnow.id/live/eds/SPOTV-HD/sa_dash_vmx/SPOTV-HD.mpd
 
-#EXTINF:-1 tvg-logo="https://hometv.pw/logo/sports2/spotv2.png" group-title="SPORTS INDO🇮🇩",SPO TV 2     
+#EXTINF:-1 tvg-logo="https://hometv.pw/logo/sports2/spotv2.png" group-title="SPORTS INDO🇮🇩",SPO TV 2
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 4.2.2; he-il; NEO-X5-116A Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://melon-live-cdn.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
 
 ++++++++++++++++++++++++++++++++++++urfan+++++++++++++++++++++++++++++++++++++++++++++
 
@@ -1152,4 +1153,5 @@ https://ctrl.laotv.la/live/TrueSport3/manifest.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://laotv.la/
 https://cors-proxy.elfsight.com/https://ctrl.laotv.la/live/TrueSport3/manifest.mpd
+
 
